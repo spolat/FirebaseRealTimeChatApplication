@@ -29,7 +29,3 @@ Add additional notes about how to deploy this on a live system
 ## Built With
 
 * [Firebase](https://firebase.google.com/)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
